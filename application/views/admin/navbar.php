@@ -26,7 +26,7 @@
                                                 <i class="material-icons">person_add</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4>Bug Fix 1.1 -> Menambah Fitur Upgrade</h4>
+                                                <h4>Bug Fix 1.2 -> Menambah Fitur Upgrade</h4>
                                                 <p>
                                                     <i class="material-icons">access_time</i> 14 mins ago
                                                 </p>
